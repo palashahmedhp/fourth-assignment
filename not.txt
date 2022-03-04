@@ -1,0 +1,26 @@
+facebook header bgc color  #3D5B99
+
+
+background-color: #E9EBEE;
+
+
+
+Facebook   Connect with friends and the world around you on Facebook
+
+
+
+image part
+
+.last{
+	margin-top: 100px;
+	margin-left: 103px;
+	width: 630px;
+	height: 450px;
+	padding: 15px;
+background-image: url("wow1.png");
+border-radius: 20px;
+float: left;
+}
+
+.last h1 p{margin: 25px;
+}
